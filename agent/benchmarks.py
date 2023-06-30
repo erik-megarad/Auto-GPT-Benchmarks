@@ -1,4 +1,5 @@
 # import subprocess
+from agbenchmark.agent_interface import run_agent
 
 
 def run_specific_agent(task, conn):
